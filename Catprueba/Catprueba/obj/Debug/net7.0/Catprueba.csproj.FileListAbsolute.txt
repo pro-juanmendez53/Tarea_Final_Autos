@@ -1,0 +1,15 @@
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\bin\Debug\net7.0\Catprueba.exe
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\bin\Debug\net7.0\Catprueba.deps.json
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\bin\Debug\net7.0\Catprueba.runtimeconfig.json
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\bin\Debug\net7.0\Catprueba.dll
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\bin\Debug\net7.0\Catprueba.pdb
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\obj\Debug\net7.0\Catprueba.csproj.AssemblyReference.cache
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\obj\Debug\net7.0\Catprueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\obj\Debug\net7.0\Catprueba.AssemblyInfoInputs.cache
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\obj\Debug\net7.0\Catprueba.AssemblyInfo.cs
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\obj\Debug\net7.0\Catprueba.csproj.CoreCompileInputs.cache
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\obj\Debug\net7.0\Catprueba.dll
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\obj\Debug\net7.0\refint\Catprueba.dll
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\obj\Debug\net7.0\Catprueba.pdb
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\obj\Debug\net7.0\Catprueba.genruntimeconfig.cache
+C:\Users\Vito\Desktop\Parcial\Catalogo prueba 1\Catprueba\Catprueba\obj\Debug\net7.0\ref\Catprueba.dll
